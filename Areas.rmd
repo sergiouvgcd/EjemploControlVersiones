@@ -15,5 +15,12 @@ Area = pi*r^2
 lado = 3
 AreaCuadrado = lado^2
 
+```
+
+```{r}
+lado = 3
+lado2 = 4
+AreaTriangulo = (lado*lado2)/2
 
 ```
+
