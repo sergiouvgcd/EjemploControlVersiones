@@ -3,8 +3,7 @@ longitud_circunferencia <- function(radio) {
   longitud <- 2 * 3.14159 * radio
   return(longitud)
 }
-longitud_rectangulo <- function(l1,l2) {
-  # Fórmula: Longitud = 2 * 3.14159 * radio
-  longitud <- l1*l2
-  return(longitud)
+longitud_rectangulo <- function(R) {
+ 
+  return(2*(L+l))
 }
