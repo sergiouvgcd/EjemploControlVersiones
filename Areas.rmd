@@ -31,3 +31,10 @@ Arearectagulo = (lado*lado2)
 
 ```
 
+```{r}
+#area trapecio
+#rellendar datosd
+A=(a+b)h/2
+
+```
+
