@@ -1,0 +1,12 @@
+tiitle: "Areas"
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=FALSE)
+```
+
+
+```{r}
+r<- 0.5
+Area = pi*r^2
+Area
+
+```
