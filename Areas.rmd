@@ -24,3 +24,10 @@ AreaTriangulo = (lado*lado2)/2
 
 ```
 
+```{r}
+lado = 3
+lado2 = 4
+Arearectagulo = (lado*lado2)
+
+```
+
